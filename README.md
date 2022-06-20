@@ -6,9 +6,6 @@
 
 SDK 下载地址：[v1.5.0](https://github.com/fableyjg/hwsdk_ios_CN/releases/tag/V1.5.0)
 
-对于unity 2019开发的游戏，接入sdk，可以参考
-[示例文档](https://github.com/artwl/hwsdk_ios/blob/master/doc/Unity%202019%E6%8E%A5%E5%85%A5iOS%20SDK%E6%AD%A5%E9%AA%A4.docx)
-
 ## 接入文档
 
 接入请参考：[飞书文档](https://hellowd.feishu.cn/docs/doccnWWl3FPT2ItZ1zdLz2TrTwf)
