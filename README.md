@@ -1,10 +1,10 @@
 # hwsdk_ios_CN 
 
-本文档是IOS版变现SDK，当前版本 `V1.5.0`
+本文档是IOS版变现SDK，当前版本 `V1.6.0`
 
 ## 下载地址
 
-SDK 下载地址：[v1.5.0](https://github.com/fableyjg/hwsdk_ios_CN/releases/tag/V1.5.0)
+SDK 下载地址：[v1.6.0](https://github.com/fableyjg/hwsdk_ios_CN/releases/tag/V1.6.0)
 
 ## 接入文档
 
@@ -14,9 +14,13 @@ SDK 下载地址：[v1.5.0](https://github.com/fableyjg/hwsdk_ios_CN/releases/ta
 
 请先查看接入文档和常见问题，还有问题可联系对接人寻求技术支持
 
-## 本版特性 (1.5 - 2022年6月)
+## 本版特性 (1.6 - 2022年7月)
 
 详细内容请查看更新记录，有完整的更新内容列表。
+- **1.6.0 新特性（2022年7月12号）**
+ - 1.优化SDK
+ - 2.添加读取本地配置功能
+ 
 - **1.5.0 新特性（2022年6月20号）**
  - 1.升级SDK至最新
  - 2.添加TopOn开屏广告
